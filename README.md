@@ -1,0 +1,2 @@
+# AndroidSDK
+ Android library module
