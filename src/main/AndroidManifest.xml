@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.amdtelecom.sdk">
+    <application>
+        <meta-data android:name="waymore_implementation_id" android:value="${waymore_implementation_id}" />
+        <meta-data android:name="web_application_domain" android:value="${web_application_domain}" />
+        <meta-data android:name="api_endpoint" android:value="${api_endpoint}" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    /
+</manifest>
